@@ -10,3 +10,7 @@ node_modules
 # 暫存性檔案
 *.tmp
 *~
+
+# es5
+dist
+public/dist
